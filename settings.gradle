@@ -1,0 +1,3 @@
+include ':fontlibrary'
+include ':app'
+rootProject.name = "Font Library"
